@@ -94,7 +94,7 @@ AI applications. All Jetson modules and developer kits are supported by JetPack 
 supports all Jetson modules.
 ## Jetson Nano
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/PujaKamble/window_glass_clean_unclen/blob/main/jetson_nano.jpg)
 
 
 ## Proposed System
